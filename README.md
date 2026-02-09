@@ -116,6 +116,3 @@ Simulation allows evaluating whether such investments improve performance before
 
 ## Conclusion
 While this solution currently exists as a conceptual model, simulation results demonstrate its **effectiveness and practicality**. The next step is transitioning from simulation to **real-world implementation**, enabling improved airport efficiency, passenger satisfaction, and economic impact.
-
-## 🔗 Project Resources
-- Presentation: *AirportSimulationModel-Presentation*
